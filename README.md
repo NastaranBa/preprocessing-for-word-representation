@@ -1,9 +1,8 @@
 # Word-Embedding
 A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks
 
-1) We conduct a comprehensive analysis of the role of preprocessing techniques in affective tasks (including sentiment analysis, emotion
-classification and sarcasm detection), employing different models, over nine datasets;
-2) We perform a comparative analysis of the accuracy performance of word vector models when preprocessing is applied at the training phase (training data) and/or at the downstream task phase (classification dataset). Interestingly,
+1) We conduct a comprehensive analysis of the role of preprocessing techniques in affective tasks (including sentiment analysis, emotion classification and sarcasm detection), employing different models, over nine datasets.
+2) We perform a comparative analysis of the accuracy performance of word vector models when preprocessing is applied at the training phase (training data) and/or at the downstream task phase (classification dataset).
 3) We evaluate the performance of our best preprocessed word vector model against state-ofthe-art pretrained word embedding models.
 
 List of Preprocessing Factors:
