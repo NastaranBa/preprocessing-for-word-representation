@@ -13,6 +13,11 @@ List of Preprocessing Factors:
 5) Negation (Neg)
 6) Pos-Tagging (POS)
 
+Training Models:
+1) Word2Vec Skip-gram 
+2) Word2Vec CBOW
+3) BERT
+
 Datasets used for Training:
 1) News : https://www.kaggle.com/snapcrack/all-the-news
 2) Wikipedia : https://www.kaggle.com/jkkphys/english-wikipedia-articles-20170820-sqlite
