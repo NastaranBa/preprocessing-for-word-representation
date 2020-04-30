@@ -10,7 +10,6 @@ import logging
 
 from negspacy.termsets import LANGUAGES
 
-
 class Negex:
 
     def __init__(
