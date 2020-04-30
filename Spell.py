@@ -21,7 +21,6 @@ Importing Dataset
 
 News = pd.read_csv(".../input/News.csv")
 
-
 print('Done Importing')
 
 ######################
