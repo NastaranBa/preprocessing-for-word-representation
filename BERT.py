@@ -12,6 +12,7 @@ bwpt = tokenizers.BertWordPieceTokenizer(
     wordpieces_prefix='##'
 )
 
+
 bwpt.train(
     files=["../input/custom-corpus/clean.txt"],
     vocab_size=30000,
