@@ -42,3 +42,5 @@ c) Sarcasm Detection:
    2) IAC : https://nlds.soe.ucsc.edu/sarcasm2
    3) Reddit : https://nlp.cs.princeton.edu/SARC/0.0/
    
+Reference:
+Nastaran Babanejad, Ameeta Agrawal, Aijun An and Manos Papagelis, A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks, accepted by the 2020 Annual Conference of the Association for Computational Linguistics (ACL 2020).
