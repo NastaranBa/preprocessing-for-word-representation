@@ -19,6 +19,7 @@ from six.moves import range  # pylint: disable=redefined-builtin
 
 import tensorflow as tf
 
+
 # Reserved tokens for things like padding and EOS symbols.
 PAD = "[PAD]"
 EOS = "[EOS]"
