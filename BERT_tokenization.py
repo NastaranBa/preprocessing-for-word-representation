@@ -32,6 +32,7 @@ def encode(text):
   Returns:
     a list of tokens as Unicode strings
   """
+
   if not text:
     return []
   ret = []
