@@ -18,6 +18,7 @@ Training Models:
 2) Word2Vec CBOW
 3) BERT
 
+
 Datasets used for Training:
 1) News : https://www.kaggle.com/snapcrack/all-the-news
 2) Wikipedia : https://www.kaggle.com/jkkphys/english-wikipedia-articles-20170820-sqlite
