@@ -69,6 +69,7 @@ import multiprocessing
 
 num_cores = multiprocessing.cpu_count()
 sentences = Parallel(n_jobs=num_cores)(delayed(majid)(i) for i in X)
+
 '''
 #############
 #Porter stemmer
