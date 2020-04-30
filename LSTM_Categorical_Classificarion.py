@@ -23,6 +23,7 @@ from keras.layers.embeddings import Embedding
 from sklearn.model_selection import train_test_split
 from keras.preprocessing.text import Tokenizer
 
+
 np.random.seed(42)
 
 movie_reviews = pd.read_csv('.../input/SSEC.csv', names=['review','sentiment'])
