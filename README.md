@@ -1,4 +1,4 @@
-# Word-Embedding
+# Effects of Preprocessing in Word Embedding
 A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks
 
 1) We conduct a comprehensive analysis of the role of preprocessing techniques in affective tasks (including sentiment analysis, emotion classification and sarcasm detection), employing different models, over nine datasets.
