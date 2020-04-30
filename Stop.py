@@ -25,6 +25,7 @@ Pre-processing Text
  
 """
 
+
 text= News['content']
 X=text.values.tolist()
 
