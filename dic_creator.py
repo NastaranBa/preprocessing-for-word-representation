@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: nasba
+@author: Nastaran Babanejad
 """
 
 import nltk
