@@ -30,8 +30,6 @@ import gc
 
 News = pd.read_csv(".../input/News.csv")
 
-
-
 print('Done Importing')
 
 
