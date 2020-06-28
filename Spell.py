@@ -71,7 +71,7 @@ contraction_mapping = {
 "how's": "how does",
 "I'd": "I would",
 "I'd've": "I would have",
-"I'll": "will",
+"I'll": "I will",
 "I'll've": "I will have",
 "I'm": "I am",
 "I've": "I have",
