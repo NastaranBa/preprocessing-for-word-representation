@@ -32,6 +32,7 @@
    1) IMDB : http://ai.stanford.edu/ amaas/data/sentiment/
    2) Semeval 2016 : http://alt.qcri.org/semeval2016/task4/index.php
    3) Airlines : https://www.kaggle.com/crowdflower/twitter-airlinesentiment
+   4) SST-5: https://nlp.stanford.edu/sentiment/index.html
    
 **b) Emotion Detection:**
    1) SSEC: http://www.romanklinger.de/ssec/
